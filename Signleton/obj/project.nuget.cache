@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMniKz/WJTHNz0D+vrH8ihBg8GJSQuFxEN8iJ6fHaXTXxsxrPXaZUWYRohDdRiWNURHQTf51ydxa9RgiXWRLAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatterns\\Signleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
