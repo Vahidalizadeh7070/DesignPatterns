@@ -1,0 +1,16 @@
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\Vahid\source\repos\DesignPatterns\Signleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
