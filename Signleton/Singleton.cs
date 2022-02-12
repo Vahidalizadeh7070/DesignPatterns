@@ -13,6 +13,9 @@ namespace Singleton
         // We use this property to show the count of each object
         private int counter = 0;
 
+        // Use this object in lock to handle threads
+        private static readonly object obj = new object();
+
         // This private property ensures that only one instance of the object is created based on the null condition
         private static Singleton instance = null;
         
@@ -23,12 +26,21 @@ namespace Singleton
             counter++;
             Console.WriteLine("Counter value for singleton class:" + counter.ToString());
         }
+
+        // public property is used to return only one instance of the class
         public static Singleton GetInstance
         {
             get
             {
-                if (instance == null)
-                    instance = new Singleton();
+                if(instance==null)
+                {
+                    // Use lock keyword to control thread
+                    lock(obj)
+                    {
+                        if (instance == null)
+                            instance = new Singleton();
+                    }
+                }
                 return instance;
             }
         }
