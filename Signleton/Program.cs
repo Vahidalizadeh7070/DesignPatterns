@@ -25,6 +25,13 @@ namespace Singleton
             Default fromusertwoDefault = new Default();
             fromuseroneDefault.PrintMessage("This message is comming from user 2 --- Default");
 
+            // Use our Static Convertor class to express our examples for converting temperature
+            double celcius = 37;
+            double fahrenheit = 98.5;
+            Console.WriteLine("******************************************");
+            Console.WriteLine("Celcius to Fahrenheit : "+ConvertorTemrperature.ToFahrenheit(celcius));
+            Console.WriteLine("Fahrenheit to Celcius  : " + ConvertorTemrperature.ToCelcius(fahrenheit));
+            Console.WriteLine("******************************************");
             Console.ReadLine();
         }
 
