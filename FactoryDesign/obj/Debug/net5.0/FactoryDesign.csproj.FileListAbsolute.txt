@@ -1,0 +1,16 @@
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\FactoryDesign.exe
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\FactoryDesign.deps.json
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\FactoryDesign.runtimeconfig.json
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\FactoryDesign.runtimeconfig.dev.json
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\FactoryDesign.dll
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\ref\FactoryDesign.dll
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\bin\Debug\net5.0\FactoryDesign.pdb
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.csproj.AssemblyReference.cache
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.AssemblyInfoInputs.cache
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.AssemblyInfo.cs
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.csproj.CoreCompileInputs.cache
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.dll
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\ref\FactoryDesign.dll
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.pdb
+H:\Programming_Courses\DesignPatterns\Factory\FactoryDesign\obj\Debug\net5.0\FactoryDesign.genruntimeconfig.cache

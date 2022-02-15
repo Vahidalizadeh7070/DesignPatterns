@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ar300hGzRDJ82LkM76df/XZm6Vpu5OytNNpFlM1NGcAz9H726VDltcQfeg+A6lYq+QAta/nllNZCAE2gaGAXtg==",
+  "success": true,
+  "projectFilePath": "H:\\Programming_Courses\\DesignPatterns\\Factory\\FactoryDesign\\FactoryDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
