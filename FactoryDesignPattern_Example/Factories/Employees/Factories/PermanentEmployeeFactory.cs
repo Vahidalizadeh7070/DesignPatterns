@@ -21,7 +21,8 @@ namespace FactoryDesignPattern_Example.Factories.Employees.Factories
         public override IEmployeeManager Create()
         {
             PermanentEmployeeManager manager = new PermanentEmployeeManager();
-            _employee.HouseAllowance = manager.GetMedicalAllowance();
+            _employee.MedicalAllowance= manager.GetMedicalAllowance();
+            _employee.HouseAllowance = 0;
             return manager;
         }
     }

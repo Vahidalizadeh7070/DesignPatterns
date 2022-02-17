@@ -22,6 +22,7 @@ namespace FactoryDesignPattern_Example.Factories.Employees.Factories
         {
             ContractEmployeeManager manager = new ContractEmployeeManager();
             _employee.HouseAllowance = manager.GetHouseAllowance();
+            _employee.MedicalAllowance = 0;
             return manager;
         }
     }
