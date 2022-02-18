@@ -19,5 +19,7 @@ namespace FactoryDesignPattern_Example.Models
         public double HouseAllowance { get; set; }
         [AllowNull]
         public double MedicalAllowance { get; set; }
+        public string JobDescription { get; set; }
+        public string ComputerInfo { get; set; }
     }
 }

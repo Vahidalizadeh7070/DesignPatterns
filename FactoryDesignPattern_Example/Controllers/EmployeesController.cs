@@ -8,6 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using FactoryDesignPattern_Example.Models;
 using FactoryDesignPattern_Example.Factories.Employees;
 using FactoryDesignPattern_Example.Factories.Employees.BaseFactory;
+using FactoryDesignPattern_Example.Factories.AbstractFactory.Interfaces.AbstractInterface;
+using FactoryDesignPattern_Example.Factories.AbstractFactory.ConcreteFactory;
+using FactoryDesignPattern_Example.Factories.AbstractFactory.Client;
 
 namespace FactoryDesignPattern_Example.Controllers
 {
@@ -55,7 +58,7 @@ namespace FactoryDesignPattern_Example.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,HourlyPay,Bonus,TypeId,HouseAllowance,MedicalAllowance")] Employee employee)
+        public async Task<IActionResult> Create([Bind("Id,Name,HourlyPay,Bonus,TypeId,HouseAllowance,MedicalAllowance,JobDescription")] Employee employee)
         {
             if (ModelState.IsValid)
             {
@@ -64,6 +67,17 @@ namespace FactoryDesignPattern_Example.Controllers
 
                 BaseEmployeeFactory empFactory = new EmployeeManagerFactory().CreateFactory(employee);
                 empFactory.ApplySalary();
+
+                // We create an object from EmployeeSystemFactory and due to the type of method that exist in that class we set
+                // IComputerFactory type for our variable
+
+                IComputerFactory factory = new EmployeeSystemFactory().Create(employee);
+
+                // Create an object from EmployeeSystemManager and due to argument of the constructor we pass our 'factory' object
+                EmployeeSystemManager manager = new EmployeeSystemManager(factory);
+                
+                // Set GetSystemDetails to ComputerInfo property which it returns a string as a computer info
+                employee.ComputerInfo = manager.GetSystemDetails();
 
                 _context.Add(employee);
                 await _context.SaveChangesAsync();
