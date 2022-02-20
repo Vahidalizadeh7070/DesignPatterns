@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkVWkkUWmyjdboLAShqjyDgmmgD74olHHX13wp5033rCSoGwJruO461elW7kuiP9QvYO01nxVbixi2ztOqntMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatterns\\Prototype\\Prototype_Simple_Example_02\\Prototype_Simple_Example_02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

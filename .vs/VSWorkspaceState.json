@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Prototype",
+    "\\Prototype\\Example_01"
   ],
-  "SelectedNode": "\\BuilderDesignPattern",
+  "SelectedNode": "\\Prototype\\Example_01",
   "PreviewInSolutionExplorer": false
 }
