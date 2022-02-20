@@ -1,0 +1,59 @@
+﻿@model Int32
+@{
+    ViewData["Title"] = "Build Laptop";
+}
+
+<h1>Build Laptop</h1>
+<h4>Build a laptop system</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BuildLaptop">
+            @Html.Hidden("employeeID", this.Model.ToString())
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Ram</label>
+                <select name="RAM" class="form-control" aria-label="Default select example">
+                    <option selected>Select a Ram for the system</option>
+                    <option value="8GB">8 GB</option>
+                    <option value="16GB">16 GB</option>
+                    <option value="32GB">32 GB</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Memory</label>
+                <select name="Drive" class="form-control" aria-label="Default select example">
+                    <option selected>Select a Memory for the system</option>
+                    <option value="500GB">500 GB</option>
+                    <option value="1TB">1 TB</option>
+                </select>
+            </div>
+            <div class="row">
+                <div class="form-group">
+                    @Html.Label("Touch Enbled", "TouchEnabled", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <div class="col-md-3">
+                            <label>@Html.RadioButton("TouchScreen", "Yes", false, htmlAttributes: new { @class = "radio-inline" }) YES</label>
+                        </div>
+                        <div class="col-md-3">
+                            <label>@Html.RadioButton("TouchScreen", "NO", false, htmlAttributes: new { @class = "radio-inline" }) NO</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
