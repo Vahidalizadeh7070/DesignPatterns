@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LueWeoNUPiXTDxT5/98v4nIRVO4fH22y0eMSrpfyr2GiMwNIGq1b09tIoU3Qya2jhDaeuaUCzRbYBPY4DjE3Pw==",
+  "success": true,
+  "projectFilePath": "H:\\Programming_Courses\\DesignPatterns\\Prototype\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

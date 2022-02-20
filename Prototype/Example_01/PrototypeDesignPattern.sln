@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPattern", "PrototypeDesignPattern.csproj", "{742D65E6-D31F-4DDB-8F5F-CEA125581528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742D65E6-D31F-4DDB-8F5F-CEA125581528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742D65E6-D31F-4DDB-8F5F-CEA125581528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742D65E6-D31F-4DDB-8F5F-CEA125581528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742D65E6-D31F-4DDB-8F5F-CEA125581528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE37C94-867E-47C0-A9BD-D7F8880FC37B}
+	EndGlobalSection
+EndGlobal
