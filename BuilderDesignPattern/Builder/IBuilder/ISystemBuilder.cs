@@ -10,19 +10,19 @@ namespace BuilderDesignPattern.Builder.IBuilder
     public interface ISystemBuilder
     {
         // Add a memory
-        void AddMemory(string memory);
+        ISystemBuilder AddMemory(string memory);
 
         // Add a drive
-        void AddDrive(string size);
+        ISystemBuilder AddDrive(string size);
 
         // Add a keyboard
-        void AddKeyBoard(string type);
+        ISystemBuilder AddKeyBoard(string type);
 
         // Add a mouse
-        void AddMouse(string type);
+        ISystemBuilder AddMouse(string type);
 
         // add a touch sreen 
-        void AddTouchScreen(string enabled);
+        ISystemBuilder AddTouchScreen(string enabled);
         
         // Get the system that we have created by above methods
         ComputerSystem GetSystem();

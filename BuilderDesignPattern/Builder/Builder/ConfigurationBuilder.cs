@@ -20,11 +20,11 @@ namespace BuilderDesignPattern.Builder.Builder
         public void BuildSystem(ISystemBuilder systembuilder
             , IFormCollection collection)
         {
-            systembuilder.AddDrive(collection["Drive"]);
-            systembuilder.AddMemory(collection["RAM"]);
-            systembuilder.AddMouse(collection["Mouse"]);
-            systembuilder.AddKeyBoard(collection["Keyboard"]);
-            systembuilder.AddTouchScreen(collection["TouchScreen"]);
+            systembuilder.AddDrive(collection["Drive"])
+                .AddMemory(collection["RAM"])
+                .AddMouse(collection["Mouse"])
+                .AddKeyBoard(collection["Keyboard"])
+                .AddTouchScreen(collection["TouchScreen"]);
         }
     }
 }
