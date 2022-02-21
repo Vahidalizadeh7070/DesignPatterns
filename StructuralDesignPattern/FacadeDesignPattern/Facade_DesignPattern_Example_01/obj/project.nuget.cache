@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Syw9RJN7FqxYxq8FRMO4NNobCM5nW6EP8leB0o6b5Z2oBpe9DQGvPeY3YJ60ZvioLzM7NURD2tM8KQL3Tuaa7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatterns\\StructuralDesignPattern\\FacadeDesignPattern\\Facade_DesignPattern_Example_01\\Facade_DesignPattern_Example_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
