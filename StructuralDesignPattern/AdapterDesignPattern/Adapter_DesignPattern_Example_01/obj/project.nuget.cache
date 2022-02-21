@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Y2J07ZVFrrN5F4NXI6qN/o3ZOB6p1AodZSKdyH65o61bNiFkAhxl5FVgb5ywcb/2kMlT7AabE8b/Yb9d2WPQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatterns\\StructuralDesignPattern\\AdapterDesignPattern\\Adapter_DesignPattern_Example_01\\Adapter_DesignPattern_Example_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
