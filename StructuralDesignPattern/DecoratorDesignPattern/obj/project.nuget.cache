@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fKIrhjhSiV8qAE64YC92XCQ6U3C8GOwKHosJQjtpPXMwDA3uDAuxlCgYCBnHdhS4GurhF+wW7KSF3Eqz9h1bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatterns\\StructuralDesignPattern\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

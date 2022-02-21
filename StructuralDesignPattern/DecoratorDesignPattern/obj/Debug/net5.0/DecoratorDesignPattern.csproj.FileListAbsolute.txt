@@ -1,0 +1,16 @@
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\DecoratorDesignPattern.exe
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\DecoratorDesignPattern.deps.json
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\DecoratorDesignPattern.runtimeconfig.json
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\DecoratorDesignPattern.runtimeconfig.dev.json
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\DecoratorDesignPattern.dll
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\ref\DecoratorDesignPattern.dll
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\bin\Debug\net5.0\DecoratorDesignPattern.pdb
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.dll
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\ref\DecoratorDesignPattern.dll
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.pdb
+C:\Users\Vahid\source\repos\DesignPatterns\StructuralDesignPattern\DecoratorDesignPattern\obj\Debug\net5.0\DecoratorDesignPattern.genruntimeconfig.cache
