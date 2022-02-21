@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Adapter_DesignPattern_Example_01
 {
+    // Usually Adapter plays a translator role 
+    // In this example, The ProcessEmployeeList method get string array from client and then translate it to the Employee Object.
     public class Adapter : ITarget
     {
         EmployeeList employeeList = new EmployeeList();
