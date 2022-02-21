@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0P5o90uqXDG7/H4JiRLHM+mvPb0Q34kCs0hFh7NrXy2BPz9jtp6ODSw3+/dddmo+kJ1c4h2j1u2GedLmGRMZJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatterns\\StructuralDesignPattern\\BridgeDesignPattern\\Bridge_DesignPattern_Example01\\Bridge_DesignPattern_Example01\\Bridge_DesignPattern_Example01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
