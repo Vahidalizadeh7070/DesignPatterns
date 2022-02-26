@@ -9,5 +9,5 @@ Software design patterns are kind of reusable solutions for problems. It shows t
 - Behavioral patterns : identifying communication patterns between objects
 
 <h4>Resources</h4>
-You can look for comprehensive information in below link.
-<a href="https://en.wikipedia.org/wiki/Software_design_pattern">Check it</a>
+You can look for comprehensive information.  
+<a href="https://en.wikipedia.org/wiki/Software_design_pattern">Read more ...</a>
