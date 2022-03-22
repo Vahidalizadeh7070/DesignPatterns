@@ -12,6 +12,7 @@ namespace Bridge_DesignPattern_Example01
             // New concrete class : SonyConcreteRemoteControl
             SonyConcreteRemoteControl sonyRemoteControl = new SonyConcreteRemoteControl(new SonyLED());
             sonyRemoteControl.SwitchOn();
+            // This is new comment
             sonyRemoteControl.SetChannel(101);
             sonyRemoteControl.SwitchOff();
 
